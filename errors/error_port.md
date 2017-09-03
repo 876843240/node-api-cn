@@ -1,6 +1,5 @@
 
 * {number}
 
-When present (e.g. in `net` or `dgram`), the `error.port` property is a number
-representing the connection's port that is not available.
+error.port表示当前连接的端口号是无效的。
 
